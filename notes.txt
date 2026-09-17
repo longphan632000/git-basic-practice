@@ -1,0 +1,2 @@
+Ghi chú thực hành Git.
+Đã học git add, git commit và git log.
